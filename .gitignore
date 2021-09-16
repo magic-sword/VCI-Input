@@ -60,6 +60,7 @@ crashlytics-build.properties
 
 # Ignore VCI packages
 [Aa]ssets/Effekseer/
+[Aa]ssets/Fonts/
 [Aa]ssets/NAudio/
 [Aa]ssets/UniGLTF/
 [Aa]ssets/VRM/
