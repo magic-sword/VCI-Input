@@ -59,7 +59,10 @@ sysinfo.txt
 crashlytics-build.properties
 
 # Ignore VCI packages
+[Aa]ssets/Effekseer/
+[Aa]ssets/NAudio/
 [Aa]ssets/UniGLTF/
 [Aa]ssets/VRM/
+[Aa]ssets/VCI/
 [Aa]ssets/VRMShaders/
 
